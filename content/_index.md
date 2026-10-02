@@ -1,10 +1,15 @@
 ---
-date: "2026-09-11T22:07:32+09:00"
 title: 낙관적 허무주의자
-description: 아르고가 하고 싶은 거 다 하는 블로그
+date: 2026-09-11T13:07:00+00:00
+draft: true
+build:
+  list: never
 ---
-
 아르고다. 이것은 블로그다. bl이고, 뒤에 og가 따라온다.
+
+![아르고 샘플1111.png](blob:https:/app.pagescms.org/952f4e48-a885-4399-b318-8fc9cf4bda26)
+
+
 
 > 낙관적 허무주의자
 
