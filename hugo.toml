@@ -1,8 +1,8 @@
-baseURL = 'https://me.shtelo.org/'
+baseURL = 'https://largonavis88.github.io/'
 locale = 'ko-kr'
 timeZone = 'Asia/Seoul'
 enableEmoji = true
-title = 'Zasoque'
+title = 'argo'
 
 [module]
   [module.mounts]
