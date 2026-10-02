@@ -7,9 +7,7 @@ build:
 ---
 아르고다. 이것은 블로그다. bl이고, 뒤에 og가 따라온다.
 
-![아르고 샘플1111.png](blob:https:/app.pagescms.org/952f4e48-a885-4399-b318-8fc9cf4bda26)
-
-
+![아르고 샘플1111.png](/images/아르고 샘플1111-1.png)
 
 > 낙관적 허무주의자
 
