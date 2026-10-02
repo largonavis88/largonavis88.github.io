@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div style="display: flex; flex-direction: column; justify-content: center; margin: 60px 0">
-  <div style="font-size: 48px; font-weight: bold; line-height: 1.2; font-family: Recipekorea">{{ .Title }}</div>
+  <div style="font-size: 48px; font-weight: bold; line-height: 1.2; font-family: Recipekorea; word-break: keep-all">{{ .Title }}</div>
   <div style="color: var(--grey)">{{ .Params.Description }}</div>
 </div>
 {{ .Content }}
