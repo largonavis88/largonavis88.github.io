@@ -3,6 +3,10 @@
   <defs>
     <style>
       .cls-1 {
+        fill: #051822;
+      }
+
+      .cls-2 {
         fill: none;
         stroke: #f7b320;
         stroke-linecap: round;
@@ -11,7 +15,8 @@
       }
     </style>
   </defs>
-  <circle class="cls-1" cx="256" cy="376" r="60"/>
-  <circle class="cls-1" cx="256" cy="316" r="120"/>
-  <circle class="cls-1" cx="256" cy="256" r="180"/>
+  <rect class="cls-1" y="0" width="512" height="512" rx="96" ry="96"/>
+  <circle class="cls-2" cx="255.62" cy="376.41" r="60"/>
+  <circle class="cls-2" cx="255.62" cy="316.41" r="120"/>
+  <circle class="cls-2" cx="255.62" cy="256.41" r="180"/>
 </svg>
