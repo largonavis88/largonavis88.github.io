@@ -1,6 +1,7 @@
 ---
 date: "2026-09-11T22:07:32+09:00"
-title: 블로그
+title: 낙관적 허무주의자
+description: 아르고가 하고 싶은 거 다 하는 블로그
 ---
 
 아르고다. 이것은 블로그다. bl이고, 뒤에 og가 따라온다.
@@ -10,42 +11,3 @@ title: 블로그
 ## 최근 글
 
 {{< recent-posts >}}
-
-## 스치에 대하여
-
-- **이름:**
-  - 스치 (Läie Zasoque Zenol Sthîe)
-  - [토쿠 (TOKU, 徒酷)](https://toku.shtelo.org)
-
-컴퓨터로 사람과 세상의 작동 방식을 관찰하고, 그것을 새로운 형태로 만들어 보는 일에 관심이 있습니다.
-소프트웨어와 인공지능, 인터페이스와 사회적 컴퓨팅을 중심으로 공부하고 있으며, 사람이 컴퓨터를 어떻게
-사용하고 컴퓨터가 사람의 활동을 어떻게 도울 수 있는지를 자주 고민합니다.
-
-한편으로는 언어학과 인공언어, 시뮬레이션, 세계관 창작처럼 현실의 구조를 분석하고 다시 만들어 보는
-작업도 좋아합니다. 새로운 규칙과 체계를 설계하고, 그것이 실제로 어떻게 작동하는지 직접 구현해 보는
-과정 자체를 즐깁니다.
-
-이곳에는 그렇게 공부하고 만들면서 발견한 것들과, 세상을 보다가 문득 궁금해진 것들을 기록합니다.
-
-- **친구들:**
-  - [다코](https://me.dacordia.com/)의 [blog.dacordia.com](https://blog.dacordia.com)
-  - [삼쩌모](https://halv.kr)의 [b.halv.kr](https://b.halv.kr)
-
-더 자세한 활동에 대해서는 [CV](/2026/09/cv)를 참고하시기 바랍니다.
-
-### 장비 목록
-
-- Mac mini (M2, 2023)
-- MacBook Pro 15' (2017)
-- HHKB Professional HYBRID Type-S
-- Logitech MX Master 3S White
-- Apple Magic Trackpad 2 (Lightning to USB-C Cable)
-- LG 32UK550 (3840x2160, 60Hz)
-- 한성컴퓨터 TFG24F14P2 (1920x1080, 144Hz)
-- iPhone 17 Seige
-- Galaxy Z Flip 4
-- iPad Air (4th Gen)
-- Apple Pencil (2nd Gen)
-- Apple AirPods Max (1st Gen)
-- Scarlett Solo 1st Gen
-- SONY MDR-7506
